@@ -1,0 +1,7 @@
+@import 'myMixin';
+div{
+    @include position_center;
+}
+span{
+    @include position_center;
+}

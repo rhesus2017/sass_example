@@ -1,0 +1,5 @@
+$name : myClass;
+$attr : border;
+.#{$name}{ 
+    #{$attr}-color : blue;
+}

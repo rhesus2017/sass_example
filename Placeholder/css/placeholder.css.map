@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACJ,MAAM,EAAE,IAAI;;AAGhB,OAAO;EAEH,gBAAgB,EAAE,GAAG",
+"sources": ["../sass/placeholder.scss"],
+"names": [],
+"file": "placeholder.css"
+}

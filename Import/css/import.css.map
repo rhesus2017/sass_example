@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,GAAG;ECAC,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;EACT,SAAS,EAAE,qBAAqB;;ADApC,IAAI;ECHA,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;EACT,SAAS,EAAE,qBAAqB",
+"sources": ["../sass/import.scss","../sass/_myMixin.scss"],
+"names": [],
+"file": "import.css"
+}

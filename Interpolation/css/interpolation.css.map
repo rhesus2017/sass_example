@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,QAAS;EACL,YAAc,EAAG,IAAI",
+"sources": ["../sass/interpolation.scss"],
+"names": [],
+"file": "interpolation.css"
+}

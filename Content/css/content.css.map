@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,oCAAoC;EAKpC,CAAC;IAAC,KAAK,EAAE,GAAG",
+"sources": ["../sass/content.scss"],
+"names": [],
+"file": "content.css"
+}

@@ -1,0 +1,8 @@
+%myClass{
+    border: none;
+}
+
+.button{
+    @extend %myClass;
+    background-color: red;
+}
